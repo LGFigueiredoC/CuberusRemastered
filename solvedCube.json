@@ -1,0 +1,32 @@
+{
+    "-y": [
+      ["white", "white", "white"],
+      ["white", "white", "white"],
+      ["white", "white", "white"]
+    ],
+    "+z": [
+      ["red", "red", "red"],
+      ["red", "red", "red"],
+      ["red", "red", "red"]
+    ],
+    "+x": [
+      ["blue", "blue", "blue"],
+      ["blue", "blue", "blue"],
+      ["blue", "blue", "blue"]
+    ],
+    "-x": [
+      ["green", "green", "green"],
+      ["green", "green", "green"],
+      ["green", "green", "green"]
+    ], 
+    "+y": [
+      ["yellow", "yellow", "yellow"],
+      ["yellow", "yellow", "yellow"],
+      ["yellow", "yellow", "yellow"]
+    ], 
+    "-z": [
+      ["orange", "orange", "orange"],
+      ["orange", "orange", "orange"],
+      ["orange", "orange", "orange"]
+    ]
+  }

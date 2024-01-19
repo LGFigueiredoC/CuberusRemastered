@@ -1,0 +1,32 @@
+{
+    "-y": [
+      ["red", "blue", "green"],
+      ["blue", "white", "red"],
+      ["white", "red", "blue"]
+    ],
+    "+z": [
+      ["orange", "yellow", "orange"],
+      ["yellow", "red", "white"],
+      ["red", "green", "red"]
+    ],
+    "+x": [
+      ["yellow", "green", "blue"],
+      ["white", "blue", "orange"],
+      ["yellow", "white", "white"]
+    ],
+    "-x": [
+      ["yellow", "white", "yellow"],
+      ["red", "green", "orange"],
+      ["white", "blue", "green"]
+    ], 
+    "+y": [
+      ["green", "orange", "green"],
+      ["yellow", "yellow", "red"],
+      ["orange", "yellow", "white"]
+    ], 
+    "-z": [
+      ["red", "blue", "blue"],
+      ["green", "orange", "green"],
+      ["orange", "orange", "blue"]
+    ]
+  }
